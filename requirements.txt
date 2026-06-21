@@ -1,0 +1,8 @@
+pulp>=2.7
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+
+# Optional: required only if solving with GUROBI() instead of CBC.
+# Needs a valid Gurobi license.
+
